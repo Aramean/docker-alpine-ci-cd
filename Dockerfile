@@ -1,5 +1,3 @@
-LABEL maintainer="Josef Gabrielsson"
-
 # Create a layer from alpine
 FROM alpine
 
