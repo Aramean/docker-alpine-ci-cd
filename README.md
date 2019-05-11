@@ -13,3 +13,6 @@ Alpine is a Linux distribution based on musl and BusyBox, primarily designed for
 
 ## How to run
 ```docker run -it aramean/docker-alpine-ci-cd:latest```
+
+## How to run with YAML pipeline
+```image: aramean/docker-alpine-ci-cd:latest```
